@@ -1,0 +1,33 @@
+# Roadmap: judge-not-zero MVP & Beyond
+
+## Overview
+- **MVP Goal**: Launch a working prototype to validate enable competitive programming with automated judging.
+- **Launch Timeline**: Q1 2026.
+- **Success Metrics**: 100 problems submitted, 50 active users.
+
+## Feature Prioritization (MoSCoW Method)
+Use this table to triage features. Focus on Must-Haves for MVP.
+
+| Priority | Feature Name | Description | Status | Est. Effort (Story Points) | Dependencies |
+|----------|--------------|-------------|--------|----------------------------|--------------|
+| **Must-Have (MVP Core)** | [Feature 1] | [TBD: Core feature for judge-not-zero. Why: Enables enable competitive programming with automated judging.] | Not Started | 5 | None |
+| **Must-Have (MVP Core)** | [Feature 2] | [TBD: Essential for MVP launch.] | Not Started | 8 | Feature 1 |
+| **Should-Have (Post-MVP)** | [Feature 3] | [TBD: Enhances usability.] | Planned | 3 | Feature 2 |
+| **Could-Have (Nice-to-Have)** | [Feature 4] | [TBD: Nice-to-have for engagement.] | Backlog | 2 | None |
+| **Won't-Have (Out of Scope)** | [Feature 5] | [TBD: Too complex for v1.] | Future | 13 | N/A |
+
+## Phases
+### Phase 1: MVP Launch (v0.1.0)
+- Core features: [Feature 1, Feature 2].
+- Testing: Unit tests + beta user feedback.
+- Risks: [TBD: e.g., API rate limits].
+
+### Phase 2: Iteration (v0.2.0)
+- Based on feedback: [Add Feature 3].
+- Timeline: 4 weeks post-launch.
+
+## How to Contribute
+- Propose features via [GitHub Issues](https://github.com/NesoHQ/judge-not-zero/issues/new?template=feature_request.md).
+- Vote on priorities with reactions (👍 for high-impact).
+
+*Last Updated: 2025-10-10. Feedback welcome!*
